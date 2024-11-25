@@ -1,0 +1,10 @@
+G:\programacion\practica-curso\tareas\diagonales\diagonales\bin\Debug\diagonales.exe.config
+G:\programacion\practica-curso\tareas\diagonales\diagonales\bin\Debug\diagonales.exe
+G:\programacion\practica-curso\tareas\diagonales\diagonales\bin\Debug\diagonales.pdb
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.csproj.AssemblyReference.cache
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.Form1.resources
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.Properties.Resources.resources
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.csproj.GenerateResource.cache
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.csproj.CoreCompileInputs.cache
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.exe
+G:\programacion\practica-curso\tareas\diagonales\diagonales\obj\Debug\diagonales.pdb
